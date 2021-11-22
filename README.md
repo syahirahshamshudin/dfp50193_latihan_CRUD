@@ -1,2 +1,2 @@
-# dfp50193_latihan_CRUD
- latihan CRUD
+# dfp50193_latihan_crud
+ crud exercise
