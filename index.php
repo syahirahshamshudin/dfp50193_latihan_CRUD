@@ -18,7 +18,7 @@ require 'conn.php';
             <th>Bil</th>
             <th>Nama</th>
             <th>No K/P</th>
-            <th>Tindakkan</th>
+            <th>Tindakan</th>
         </tr>
         <?php
         $bil = 1;
